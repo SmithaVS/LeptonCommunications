@@ -214,7 +214,7 @@ h6 {
 	position: relative;
 }
 
-.header #video-background {
+.header #img-background {
 	position: absolute;
 	right: 0;
 	bottom: 0;
@@ -1181,15 +1181,15 @@ h6 {
 			margin: 2%;
 			padding: 0;
 		}
-		.btn-solid-lg
+		.btn
 		{
 			    margin-left: 50%;
 				display: inline-block;
 				padding: 1.625rem 2.625rem 1.625rem 2.625rem;
-				color: #ffffff;
+				color:blue;
 				font-weight: 600;
-				font-size: 0.875rem;
+				font-size: 3rem;
 				line-height: 0;
-				text-decoration: blue;
+				top:10%;
 				transition: all 0.2s;
 		}
